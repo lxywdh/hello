@@ -5,4 +5,5 @@
 
 int main(){
 	printf("hello world!!\n");
+	printf("this is feature_A");
 }
